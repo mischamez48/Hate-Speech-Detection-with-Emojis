@@ -159,10 +159,6 @@ pip install pandas matplotlib numpy scikit-learn
 
 This project was developed for academic purposes as part of the EE559 Deep Learning course at EPFL.
 
-## Contact
-
-For questions about this implementation, please refer to the detailed project report or contact the course instructors.
-
 ---
 
 *This project demonstrates advanced techniques in natural language processing, hate speech detection, and ensemble learning methods using state-of-the-art transformer models.* 
